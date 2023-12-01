@@ -36,7 +36,7 @@
     <actions>
         <action id="com.proj.mybatisJump" class="com.proj.mybatisJump" text="mybatisJump">
             <add-to-group group-id="GenerateGroup" anchor="first"/>
-            <add-to-group group-id="HelpMenu" anchor="first"/>
+            <add-to-group group-id="EditorPopupMenu" anchor="first"/>
         </action>
     </actions>
 </idea-plugin>
